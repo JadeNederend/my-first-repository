@@ -1,0 +1,19 @@
+<html> 
+	<head> Welcome to PRJ4 2020
+	</head>
+	<body>
+<h1>Jade Nederend</h1>
+<div id="introduction">
+  <h2>About me</h2>
+  <h3>My story</h3>
+  <h3>My goals</h3>
+</div>
+<div id="work">
+  <h3>My Resume</h3>
+   <h3>Education</h3>
+   <h3>Work experience</h3>
+
+<a href="https://www.bing.com/images/search?view=detailV2&ccid=5wt8ZCD%2b&id=D9F8F4A8B49CEDC1FB60E8176BF3AC84BE11604D&thid=OIP.5wt8ZCD-rScGrC2kBMiCNAAAAA&mediaurl=https%3a%2f%2fimages.poms.omroep.nl%2fimage%2fs460%2fc460x260%2f1052152.jpg&exph=259&expw=460&q=checkpoint+eo&simid=608001977894112486&selectedIndex=5&ajaxhist=0</a>
+</div>
+	</body>
+</html>
